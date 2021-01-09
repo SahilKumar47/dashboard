@@ -1,5 +1,5 @@
 Vue.config.devtools = true;
-
+ 
 Vue.component("card", {
   template: `
     <div class="card-wrap"
