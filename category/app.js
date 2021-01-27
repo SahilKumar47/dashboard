@@ -1,6 +1,6 @@
 Vue.config.devtools = true;
  
-Vue.component("card", {
+Vue.component("card", { 
   template: `
     <div class="card-wrap"
       @mousemove="handleMouseMove"
